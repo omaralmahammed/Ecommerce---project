@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\e-commerse-project\\t-3\\project_7admin\\back_end\\e_commerce_clothes\\controllers\\admincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\controllers\\admincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\e-commerse-project\\t-3\\project_7admin\\back_end\\e_commerce_clothes\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\e-commerse-project\\t-3\\project_7admin\\back_end\\e_commerce_clothes\\dtos\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC9429-4542-46C8-B1B4-EE1BEEBAA579}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\dtos\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\Controllers\\VoucherController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "E_Commerce_Clothes\\Controllers\\VoucherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:55.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\DTOs\\ProductsRequestDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\DTOs\\ProductsRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\DTOs\\ProductsRequestDTO.cs",
+              "RelativeToolTip": "E_Commerce_Clothes\\DTOs\\ProductsRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:28:21.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\Controllers\\AdminControllers.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\Controllers\\AdminControllers.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\E-Commerse-project\\t-3\\Project_7Admin\\back_end\\E_Commerce_Clothes\\Controllers\\AdminControllers.cs",
+              "RelativeToolTip": "E_Commerce_Clothes\\Controllers\\AdminControllers.cs",
+              "ViewState": "AQIAAKUBAAAAAAAAAAAiwOoBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:37:59.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
