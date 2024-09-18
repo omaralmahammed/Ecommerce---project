@@ -59,7 +59,7 @@ This project leverages the following technologies:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-clothing-store.git
+   git clone https://github.com/omaralmahammed/EcommerceProject7.git
 
 2. figma link 
     https://www.figma.com/design/AWCl1v1MOj7hKbeuVjQeFG/Untitled?node-id=0-1&node-type=CANVAS&t=3Sr9XXEAs82CyTbF-0
