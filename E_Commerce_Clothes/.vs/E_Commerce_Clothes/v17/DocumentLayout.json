@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\E_Commerce_Clothes\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\e_commerce_clothes\\e_commerce_clothes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\orange academy\\sep\\ecommerce project 7\\ecommerceproject7\\e_commerce_clothes\\e_commerce_clothes\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\orange academy\\sep\\ecommerce project 7\\ecommerceproject7\\e_commerce_clothes\\e_commerce_clothes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\orange academy\\sep\\ecommerce project 7\\ecommerceproject7\\e_commerce_clothes\\e_commerce_clothes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\orange academy\\sep\\ecommerce project 7\\ecommerceproject7\\e_commerce_clothes\\e_commerce_clothes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\e_commerce_clothes\\e_commerce_clothes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|c:\\users\\orange\\desktop\\orange academy\\sep\\ecommerce project 7\\ecommerceproject7\\e_commerce_clothes\\e_commerce_clothes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{866D787C-BA21-44DB-B07B-372137316366}|E_Commerce_Clothes\\E_Commerce_Clothes.csproj|solutionrelative:e_commerce_clothes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +39,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\appsettings.json",
+              "RelativeToolTip": "E_Commerce_Clothes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T13:05:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "E_Commerce_Clothes\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAuwC0BAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:51:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Program.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Clothes\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Program.cs",
+              "RelativeToolTip": "E_Commerce_Clothes\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAEwFoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:31:55.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\E_Commerce_Clothes\\E_Commerce_Clothes\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Models\\User.cs",
               "RelativeDocumentMoniker": "E_Commerce_Clothes\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\E_Commerce_Clothes\\E_Commerce_Clothes\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Models\\User.cs",
               "RelativeToolTip": "E_Commerce_Clothes\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,16 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "E_Commerce_Clothes\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Orange Academy\\Sep\\ecommerce project 7\\EcommerceProject7\\E_Commerce_Clothes\\E_Commerce_Clothes\\Controllers\\UsersController.cs",
               "RelativeToolTip": "E_Commerce_Clothes\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAF8AAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwM8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:43:36.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:43:36.653Z"
             }
           ]
         }
